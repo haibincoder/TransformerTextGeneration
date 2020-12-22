@@ -1,2 +1,2 @@
-# TransformerTextPredict
+# TransformerTextGeneration
 基于Transformer文本生成

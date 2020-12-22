@@ -1,2 +1,2 @@
-# TransformerTextClassification
-基于Transformer文本分类
+# TransformerTextPredict
+基于Transformer文本生成
